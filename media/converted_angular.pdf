@@ -1,0 +1,105 @@
+Frontend Roadmap till Framework Selection
+
+roadmap.sh/frontend
+
+Angular
+
+What is TypeScript?
+
+Why use TypeScript? scccee
+
+Structural Typing
+
+°
+J
+. e
+° e
+J
+e
+°
+e
+
+Type Inference
+
+What is Observable Pattern }..-°*
+
+Observable Lifecycle - .
+Templates
+
+Marble Diagrams ° . .
+o Rendering Topics .. Interpolation
+
+e
+e
+e
+e
+.
+®
+e
+e
+*.
+%e
+ee
+e
+e
+e
+e
+o
+°
+
+Operators . —
+Forms, Inputs, Validation *. Event Binding
+
+Services and HTTP
+
+Filtering Rate Limiting
+
+Lifecycle Hooks
+
+Transformation Combination
+
+Routing and Guards
+
+Advanced Topics
+
+State Management
+
+Testing Angular Apps
+
+Component Bindings °° oe
+Component Templates |°
+
+Frontend Roadmap after Framework Selection
+
+roadmap.sh/frontend
+
+nglif, <ng-template>
+ngClass ngStyle
+
+Creating Custom Directives
+
+Find the detailed version of this roadmap
+along with resources and other roadmaps
+
+http: // roadmap.sh
+
+Union Types
+Built-in types
+
+Type Guards
+
+eee. RxJS vs Promises
+
+ooceee Angularjs vs Angular
+
+“eee. Architectural Overview
+
+Property Binding
+
+#ref variables
+
+ngFor
+
+Dependency Injection & Zones
+
+

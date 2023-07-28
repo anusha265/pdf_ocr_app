@@ -1,0 +1,181 @@
+A PROJECT
+ON PDF
+TOOLS
+
+BY BANDARU ANUSHA
+21ISTUCHHO10667
+
+
+
+INTRODUCTION TO PDF TOOLS
+
+- The PDF Tools project is a software application aimed at simplifying the
+management and manipulation of PDF (Portable Document Format)
+files. With the widespread use of PDFs for document sharing and
+archiving, there is a need for efficient tools to perform various operations
+
+on these files. The PDF Tools project aims to address this need by
+
+providing a user-friendly interface and a comprehensive set of features to
+
+handle PDF documents effectively.
+
+By simplifying PDF file management, the PDF Tools project enhances
+productivity and saves valuable time and effort for users. It caters to
+professionals who frequently work with PDF documents, providing them
+with a convenient and efficient solution to manage and manipulate their
+
+files.
+
+
+
+AIM OF THE PROJECT
+
+- The primary aim of the PDF Tools project is to provide a secure and
+
+reliable software application for managing and manipulating PDF files.
+
+. ; ; ob-select 1 :
+In addition to offering a comprehensive set of features and -er_ob.select 1
+
+atext.scene.objects.actio
+
+functionalities, the project places a strong emphasis on privacy, “Selected” + str(modi fier
+
+particularly for government-related files.
+
+t
+
+t (“please select exat
+
+- Government organizations and agencies often deal with sensitive and
+
+confidential information that requires strict privacy measures. While
+
+there are several third-party applications available for handling PDF
+files, relying on external software raises concerns about data security
+
+and potential breaches.
+
+
+
+OUIREMENTS FOR PDF TOOLS PRQJECT:
+
+LJ Python, HTML
+@ Python Django
+
+WY  VSCode Editor
+
+
+MY
+CONTRIBUTION
+IN THE
+PROJECT:
+
+My contribution to the PDF ‘Tools project involved the
+development and implementation of some key features
+
+such as:
+
+- Compressing a set of images
+- Even and odd split of pdf
+- Merging pdfs
+
+- Reordering pages in pdf
+
+
+REORDER PAGES IN A PDF:
+
+127.0.0.1
+
+Reorder PDF
+
+Select PDF File:
+
+Choose File | space_science.pdf
+
+Page Numbers to Reorder (comma-separated):
+
+1,25,26
+
+Page Numbers to Keep as Is (comma-separated):
+
+2-24
+
+Reorder PDF
+
+
+C
+
+ROTATING PDF PAGES.
+
+127.0.0.1
+
+PDF Rotation
+
+Select PDF file:
+
+Choose File | space_science.pdf
+
+Rotation degree:
+
+90 degrees v
+
+Pages to rotate:
+1,2
+
+Note: Enter page numbers separated by commas (e.g., 1,3,5).
+
+Rotate
+
+
+COMPRESSING IMAGES :
+
+lmage Compression
+
+
+
+PDE SPLITTING :
+
+127.0.0.1
+
+PDF Split
+
+Choose a PDF file:
+
+Choose File | space_science.pdf
+
+Select split type:
+
+@
+
+Even Split
+O
+
+Odd Split
+
+Split PDF
+
+
+CONCLUSION
+
+Finally, the PDF Tools project is a worthwhile and gratifying
+experience. I made major contributions to the development and
+implementation of numerous features that improve the application's
+
+functionality and usability.
+
+- The goal of the project was to provide a simple and complete solution
+
+for managing and modifying PDF files. We have successfully addressed
+
+the different needs of users dealing with PDF documents by
+incorporating capabilities such as image compression, PDF’ merging,
+
+page reordering, and even and odd splitting.
+
+
+
+THANK YOU
+
+
